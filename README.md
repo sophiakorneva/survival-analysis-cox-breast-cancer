@@ -2,7 +2,7 @@ Survival Analysis of Breast Cancer Data
 
 This project demonstrates basic survival analysis techniques in Python using the **lifelines** package.
 
-Methods
+##Methods
 
 - Kaplan–Meier survival curves
 - Log-rank test
@@ -10,7 +10,7 @@ Methods
 - Interaction effects
 - Proportional hazards assumption test
 
-Variables
+##Variables
 
 - age
 - tumor size
@@ -18,9 +18,13 @@ Variables
 - estrogen receptor expression
 - hormone therapy
 
-  Example result
+  ##Example result
 
 Hormone therapy significantly reduces hazard of death (HR ≈ 0.66).
+
+## Example survival curves
+
+![Survival curves](survival_er.png)
 
 Tools
 
