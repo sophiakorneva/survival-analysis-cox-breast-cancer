@@ -1,6 +1,8 @@
-Survival Analysis of Breast Cancer Data
+Dataset: Breast cancer clinical dataset (public dataset used for demonstration)
 
-This project demonstrates basic survival analysis techniques in Python using the **lifelines** package.
+Goal:
+Evaluate the effect of estrogen receptor (ER) status and therapy on patient survival.
+
 
 ##Methods
 
